@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719100157332",
+    "firebase_url": "https://mastercalendar-5c7f0-default-rtdb.firebaseio.com",
+    "project_id": "mastercalendar-5c7f0",
+    "storage_bucket": "mastercalendar-5c7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719100157332:android:b39143cb21db81ce468381",
+        "android_client_info": {
+          "package_name": "com.example.maincalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719100157332-egav4llo3m5volpneehf6cp6osnoahq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maincalendar",
+            "certificate_hash": "12cf47371ce72ef6344157898fd7a758e09ef308"
+          }
+        },
+        {
+          "client_id": "719100157332-23ords429bkr3hqt93n32sdaea6llr27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgNlbOgQlzWkkTXzU4_wNrNPO5HTKyQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719100157332-23ords429bkr3hqt93n32sdaea6llr27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
